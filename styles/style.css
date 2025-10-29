@@ -154,7 +154,7 @@ nav ul a:hover, .advert .advert-article a:hover{
     .container{
         width: 80%;
         grid-template-rows: 125px 1fr;
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     /* header */
     .header nav .menu-bar{
