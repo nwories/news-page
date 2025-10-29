@@ -154,6 +154,7 @@ nav ul a:hover, .advert .advert-article a:hover{
     .container{
         width: 80%;
         grid-template-rows: 125px 1fr;
+        font-size: 1rem;
     }
     /* header */
     .header nav .menu-bar{
@@ -182,6 +183,9 @@ nav ul a:hover, .advert .advert-article a:hover{
     .main .desktop-img{
         display: block;
     }
+    .main .btn a{
+    font-size: 1rem;
+}
     .web-3{
         grid-area: web-3;
     }
@@ -202,6 +206,12 @@ nav ul a:hover, .advert .advert-article a:hover{
     .main .news .line{
     margin: 2rem 0;
     }
+    .main .news h1{
+    font-size: 3.2rem;
+}
+.main .news h2{
+    font-size: 1.2rem;
+}
     .advert-section{
     grid-area: advert-section;
     display: flex;
