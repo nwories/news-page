@@ -79,7 +79,7 @@ nav ul a:hover, .advert .advert-article a:hover{
 }
 .main .btn{
     background-color: var(--Soft-red);
-    width: 57%;
+    width: 60%;
     text-align: center;
     padding: 1.5rem 2rem;
 }
@@ -87,7 +87,7 @@ nav ul a:hover, .advert .advert-article a:hover{
     text-decoration: none;
     color: var(--Very-dark-blue);
     font-weight: 700;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     letter-spacing: 3px;
 }
 
@@ -100,13 +100,13 @@ nav ul a:hover, .advert .advert-article a:hover{
 }
 .main .news h1{
     color: var(--Soft-orange);
-    font-size: 3.6rem;
+    font-size: 3.4rem;
     margin-bottom: 2rem;
 }
 .main .news h2{
     color: var(--Off-white);
     margin: 1rem 0;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
 }
 .main .news p{
     color: var(--Off-white);
@@ -133,7 +133,7 @@ nav ul a:hover, .advert .advert-article a:hover{
 }
 .advert .advert-img img{
     width: 105%;
-    height: 120px;
+    height: 160px;
 }
 .advert .advert-article h1{
     color: var(--Soft-red);
@@ -141,7 +141,7 @@ nav ul a:hover, .advert .advert-article a:hover{
 }
 .advert .advert-article a{
     color: var(--Very-dark-blue);
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     margin: 1rem 0;
     font-weight: 700;
 }
@@ -192,7 +192,7 @@ nav ul a:hover, .advert .advert-article a:hover{
         margin-top: 4rem;
     }
     .main .web-3-article h1{
-        font-size: 4rem;
+        font-size: 3.5rem;
     }
     .main .news{
         grid-area: news;
@@ -209,9 +209,9 @@ nav ul a:hover, .advert .advert-article a:hover{
     }
     .advert .advert-img img{
     width: 100%;
-    height: 120px;
+    height: 140px;
     }
     .advert .advert-article a{
-    font-size: 1.2rem;
+    font-size: 1rem;
     }
 }
