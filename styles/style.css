@@ -23,7 +23,7 @@
   grid-template-columns: 1fr;
   grid-template-rows: 100px 1fr;
   justify-self: center;
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 /* end of layouts */
@@ -74,7 +74,7 @@ nav ul a:hover,
 .main p {
   margin-bottom: 2rem;
   color: var(--Dark-grayish-blue);
-  line-height: 2.5rem;
+  line-height: 2rem;
 }
 .main .btn {
   background-color: var(--Soft-red);
@@ -153,7 +153,6 @@ nav ul a:hover,
   .container {
     width: 80%;
     grid-template-rows: 125px 1fr;
-    font-size: 1rem;
   }
   /* header */
   .header nav .menu-bar {
